@@ -1,0 +1,25 @@
+{
+  "name": "mmmut.placement.api",
+  "version": "1.0.0",
+  "description": "REST API for MMMUT Training & Placement Cell data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bittu-the-coder/mmmut.placement.api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bittu-the-coder/mmmut.placement.api/issues"
+  },
+  "homepage": "https://github.com/Bittu-the-coder/mmmut.placement.api#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
