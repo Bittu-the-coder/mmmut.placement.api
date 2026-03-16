@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "api_version": "1.0",
+    "generated_for": "MMMUT Training & Placement Cell",
+    "data_sources": [
+      "Placement Brochure 2023-24",
+      "Placement Brochure 2022-23",
+      "Placement Report 2021-22 (Detailed)",
+      "Placement Report 2022-23 (Detailed)",
+      "Placement Brochure 2025-26"
+    ],
+    "last_updated": "2025-26 Session",
+    "contact": "tnp@mmmut.ac.in"
+  },
+
+  "university": {
+    "name": "Madan Mohan Malaviya University of Technology",
+    "short_name": "MMMUT",
+    "location": "Gorakhpur, Uttar Pradesh, 273010",
+    "established_college": 1962,
+    "university_status_year": 2013,
+    "website": "https://tnpmmmut.tech/",
+    "tnp_website": "https://official-website-t-p.vercel.app/",
+    "contact_email": "tnp@mmmut.ac.in",
+    "accreditations": {
+      "NAAC": "A Grade",
+      "NBA_branches": ["CSE", "CE", "EE", "ECE", "ME"]
+    },
+    "rankings": {
+      "NIRF_2025": { "overall_university": 68, "engineering": 60, "state_university": 23 },
+      "QS_World_2025": 292,
+      "HackerRank_community": 84
+    },
+    "total_students": 4500,
+    "ug_students": 3800
+  },
+
+  "academic_programs": {
+    "UG_BTech": [
+      { "branch": "Computer Science and Engineering", "code": "CSE", "intake": 225, "nba": true },
+      { "branch": "Electronics and Communication Engineering", "code": "ECE", "intake": 180, "nba": true },
+      { "branch": "Electrical Engineering", "code": "EE", "intake": 180, "nba": true },
+      { "branch": "Mechanical Engineering", "code": "ME", "intake": 175, "nba": true },
+      { "branch": "Civil Engineering", "code": "CE", "intake": 174, "nba": true },
+      { "branch": "Chemical Engineering", "code": "CHE", "intake": 90, "nba": false },
+      { "branch": "Information Technology and Computer Application", "code": "IT", "intake": 94, "nba": false }
+    ],
+    "UG_Others": [
+      { "program": "BBA", "intake": 75 },
+      { "program": "B.Pharm", "intake": 60 }
+    ],
+    "PG": [
+      { "program": "M.Tech", "total_intake": 216 },
+      { "program": "MBA", "intake": 75 },
+      { "program": "MCA", "intake": 75 },
+      { "program": "M.Sc", "intake": 90 },
+      { "program": "Ph.D", "intake": 90 }
+    ]
+  },
+
+  "placement_summary_by_year": [
+    {
+      "session": "2016-17",
+      "offers": 92,
+      "companies": 5,
+      "avg_package_lpa": 3.3,
+      "highest_package_lpa": 3.5
+    },
+    {
+      "session": "2017-18",
+      "offers": 90,
+      "companies": 5,
+      "avg_package_lpa": 3.5,
+      "highest_package_lpa": 10.12
+    },
+    {
+      "session": "2018-19",
+      "offers": 135,
+      "companies": 8,
+      "avg_package_lpa": 4.67,
+      "highest_package_lpa": 10.12
+    },
+    {
+      "session": "2019-20",
+      "offers": 303,
+      "companies": 39,
+      "avg_package_lpa": 4.21,
+      "highest_package_lpa": 8.0
+    },
+    {
+      "session": "2020-21",
+      "offers": 401,
+      "companies": 69,
+      "avg_package_lpa": 4.51,
+      "highest_package_lpa": 37.0
+    },
+    {
+      "session": "2021-22",
+      "offers": 1022,
+      "companies": 86,
+      "avg_package_lpa": 6.91,
+      "highest_package_lpa": 50.0,
+      "top_company": "Microsoft",
+      "top_package_company_lpa": 50.0
+    },
+    {
+      "session": "2022-23",
+      "offers": 961,
+      "companies": 86,
+      "avg_package_lpa": 6.8,
+      "highest_package_lpa": 52.0,
+      "top_company": "Google",
+      "top_package_company_lpa": 52.0
+    },
+    {
+      "session": "2023-24",
+      "offers": 973,
+      "companies": 80,
+      "avg_package_lpa": 6.5,
+      "highest_package_lpa": 45.0
+    },
+    {
+      "session": "2024-25",
+      "offers": 1100,
+      "companies": 90,
+      "avg_package_lpa": 7.0,
+      "highest_package_lpa": 59.0,
+      "top_company": "Uber",
+      "top_package_company_lpa": 59.0
+    }
+  ],
+
+  "detailed_placements": {
+    "2021-22": {
+      "summary": {
+        "total_offers": 1022,
+        "companies_count": 110,
+        "avg_package_lpa": 6.91,
+        "highest_package_lpa": 50.0
+      },
+      "branch_totals": {
+        "CSE": 345, "ECE": 234, "EE": 117, "ME": 114, "CE": 48, "CHE": 41, "MBA_BBA": 48, "MCA": 44, "MTech": 31
+      },
+      "companies": [
+        { "name": "Accenture", "total": 39, "CSE": 21, "ECE": 11, "EE": 0, "ME": 0, "CE": 1, "CHE": 3, "MBA_BBA": 0, "MCA": 3, "MTech": 0, "pkg_lpa": "4.5-6.5", "sector": "IT" },
+        { "name": "Wipro", "total": 135, "CSE": 42, "ECE": 49, "EE": 24, "ME": 10, "CE": 5, "CHE": 5, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": "3.5-6.5", "sector": "IT" },
+        { "name": "TCS Ninja", "total": 49, "CSE": 23, "ECE": 13, "EE": 7, "ME": 0, "CE": 0, "CHE": 1, "MBA_BBA": 0, "MCA": 3, "MTech": 2, "pkg_lpa": 3.36, "sector": "IT" },
+        { "name": "TCS Digital", "total": 3, "CSE": 2, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 7.0, "sector": "IT" },
+        { "name": "Cognizant GenC", "total": 96, "CSE": 21, "ECE": 25, "EE": 12, "ME": 17, "CE": 10, "CHE": 2, "MBA_BBA": 0, "MCA": 7, "MTech": 2, "pkg_lpa": 4.0, "sector": "IT" },
+        { "name": "Cognizant GenC Elevate", "total": 40, "CSE": 20, "ECE": 13, "EE": 2, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 4, "MTech": 1, "pkg_lpa": 4.25, "sector": "IT" },
+        { "name": "Cognizant GenC Next", "total": 9, "CSE": 9, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 6.75, "sector": "IT" },
+        { "name": "HCL Technologies", "total": 25, "CSE": 8, "ECE": 5, "EE": 11, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 1, "MTech": 0, "pkg_lpa": 3.65, "sector": "IT" },
+        { "name": "IBM", "total": 29, "CSE": 12, "ECE": 10, "EE": 5, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 1, "MTech": 0, "pkg_lpa": 4.5, "sector": "IT" },
+        { "name": "Infosys", "total": 23, "CSE": 18, "ECE": 1, "EE": 1, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 3, "pkg_lpa": "3.6-9.5", "sector": "IT" },
+        { "name": "HummingWave Technologies", "total": 23, "CSE": 10, "ECE": 5, "EE": 4, "ME": 2, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 2, "pkg_lpa": "6.5-9.0", "sector": "IT" },
+        { "name": "Ericsson", "total": 74, "CSE": 16, "ECE": 27, "EE": 13, "ME": 13, "CE": 4, "CHE": 1, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 4.5, "sector": "IT" },
+        { "name": "Amazon", "total": 5, "CSE": 4, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 45.0, "sector": "IT" },
+        { "name": "Microsoft", "total": 2, "CSE": 2, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 50.0, "sector": "IT" },
+        { "name": "Walmart", "total": 3, "CSE": 1, "ECE": 1, "EE": 1, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 23.4, "sector": "IT" },
+        { "name": "ServiceNow", "total": 1, "CSE": 0, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 34.0, "sector": "IT" },
+        { "name": "BNY Mellon", "total": 2, "CSE": 0, "ECE": 1, "EE": 1, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 17.0, "sector": "Finance" },
+        { "name": "Nuclei", "total": 2, "CSE": 1, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 16.0, "sector": "Fintech" },
+        { "name": "Lowe's India", "total": 1, "CSE": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 19.34, "sector": "IT" },
+        { "name": "Shiprocket", "total": 4, "CSE": 4, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 15.0, "sector": "IT" },
+        { "name": "Jupiter Money", "total": 1, "CSE": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 23.7, "sector": "Fintech" },
+        { "name": "Nagarro", "total": 23, "CSE": 7, "ECE": 7, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 5, "MTech": 3, "pkg_lpa": 5.0, "sector": "IT" },
+        { "name": "Lumiq", "total": 19, "CSE": 19, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 8.0, "sector": "IT" },
+        { "name": "IndiaMart", "total": 14, "CSE": 11, "ECE": 3, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 8.0, "sector": "IT" },
+        { "name": "IndiaMart Off Campus", "total": 12, "CSE": 9, "ECE": 3, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 8.0, "sector": "IT" },
+        { "name": "Clearwater Analytics", "total": 4, "CSE": 4, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 8.0, "sector": "Finance" },
+        { "name": "ChaiPoint", "total": 4, "CSE": 4, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 7.5, "sector": "Sales" },
+        { "name": "MakeMyTrip", "total": 1, "CSE": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 12.0, "sector": "IT" },
+        { "name": "Medly", "total": 2, "CSE": 2, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 11.0, "sector": "HealthTech" },
+        { "name": "Verifone", "total": 15, "CSE": 7, "ECE": 8, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 8.5, "sector": "IT" },
+        { "name": "Thinksys", "total": 9, "CSE": 3, "ECE": 3, "EE": 2, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 5.0, "sector": "IT" },
+        { "name": "Hexaview Technologies", "total": 3, "CSE": 2, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 5.0, "sector": "IT" },
+        { "name": "Skolar", "total": 26, "CSE": 1, "ECE": 2, "EE": 2, "ME": 7, "CE": 6, "CHE": 4, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 7.0, "sector": "EdTech" },
+        { "name": "BEL", "total": 7, "CSE": 7, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 11.0, "sector": "Core Engineering" },
+        { "name": "Aditya Birla Group", "total": 31, "CSE": 0, "ECE": 0, "EE": 6, "ME": 16, "CE": 0, "CHE": 2, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 6.0, "sector": "Core Engineering" },
+        { "name": "India Glycols Limited", "total": 11, "CSE": 0, "ECE": 0, "EE": 0, "ME": 9, "CE": 2, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 4.0, "sector": "Core Engineering" },
+        { "name": "Torrent Gas", "total": 10, "CSE": 0, "ECE": 0, "EE": 0, "ME": 10, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 3.2, "sector": "Core Engineering" },
+        { "name": "UltraTech Cement", "total": 4, "CSE": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 4, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 6.5, "sector": "Core Engineering" },
+        { "name": "MG Motors", "total": 4, "CSE": 0, "ECE": 0, "EE": 0, "ME": 4, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 6.0, "sector": "Core Engineering" },
+        { "name": "Prism Johnson", "total": 7, "CSE": 0, "ECE": 0, "EE": 0, "ME": 3, "CE": 4, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 5.75, "sector": "Core Engineering" },
+        { "name": "Railtech Infraventure", "total": 5, "CSE": 0, "ECE": 0, "EE": 0, "ME": 2, "CE": 3, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 4.0, "sector": "Core Engineering" },
+        { "name": "Tech Mahindra", "total": 4, "CSE": 1, "ECE": 1, "EE": 0, "ME": 1, "CE": 0, "CHE": 1, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 4.8, "sector": "IT" },
+        { "name": "Zensar Technologies", "total": 5, "CSE": 0, "ECE": 3, "EE": 2, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 6.5, "sector": "IT" },
+        { "name": "Coforge", "total": 6, "CSE": 6, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 3.65, "sector": "IT" },
+        { "name": "Capgemini", "total": 4, "CSE": 2, "ECE": 2, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": "4.5-7.5", "sector": "IT" },
+        { "name": "Revature", "total": 8, "CSE": 3, "ECE": 3, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 2, "MTech": 0, "pkg_lpa": 4.0, "sector": "IT" },
+        { "name": "Unthinkable Solutions", "total": 5, "CSE": 5, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 5.0, "sector": "IT" },
+        { "name": "PinClick", "total": 20, "CSE": 0, "ECE": 0, "EE": 0, "ME": 9, "CE": 5, "CHE": 5, "MBA_BBA": 4, "MCA": 0, "MTech": 0, "pkg_lpa": 5.16, "sector": "Real Estate" },
+        { "name": "Tejas Network", "total": 1, "CSE": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 10.0, "sector": "IT" }
+      ]
+    },
+
+    "2022-23": {
+      "summary": {
+        "total_offers": 961,
+        "companies_count": 86,
+        "avg_package_lpa": 6.8,
+        "highest_package_lpa": 52.0
+      },
+      "branch_totals": {
+        "CSE": 189, "IT": 99, "ECE": 169, "EE": 87, "ME": 117, "CE": 66, "CHE": 36, "MBA_BBA": 67, "MCA": 6, "MTech": 21
+      },
+      "companies": [
+        { "name": "Google", "total": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 52.0, "sector": "IT" },
+        { "name": "Expedia", "total": 1, "CSE": 0, "IT": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 42.0, "sector": "IT" },
+        { "name": "ServiceNow", "total": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 34.0, "sector": "IT" },
+        { "name": "Trilogy Innovations", "total": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 36.5, "sector": "IT" },
+        { "name": "JusPay", "total": 5, "CSE": 2, "IT": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 27.0, "sector": "Fintech" },
+        { "name": "Zscaler", "total": 1, "CSE": 0, "IT": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 19.2, "sector": "IT" },
+        { "name": "Josh Technology Group (SDE)", "total": 1, "CSE": 0, "IT": 0, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 17.4, "sector": "IT" },
+        { "name": "Josh Technology Group (FD)", "total": 1, "CSE": 0, "IT": 1, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": 14.75, "sector": "IT" },
+        { "name": "Skill Vertex", "total": 97, "CSE": 5, "IT": 17, "ECE": 19, "EE": 9, "ME": 24, "CE": 12, "CHE": 18, "MBA_BBA": 10, "MCA": 0, "MTech": 3, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "L&T", "total": 68, "CSE": 2, "IT": 0, "ECE": 2, "EE": 13, "ME": 15, "CE": 23, "CHE": 15, "MBA_BBA": 2, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Core Engineering" },
+        { "name": "Pregrad", "total": 46, "CSE": 3, "IT": 8, "ECE": 7, "EE": 6, "ME": 5, "CE": 9, "CHE": 2, "MBA_BBA": 3, "MCA": 2, "MTech": 1, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "HummingWave Technologies", "total": 35, "CSE": 26, "IT": 6, "ECE": 3, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": "6.5-9.0", "sector": "IT" },
+        { "name": "Growupp", "total": 35, "CSE": 0, "IT": 6, "ECE": 9, "EE": 8, "ME": 3, "CE": 3, "CHE": 9, "MBA_BBA": 2, "MCA": 3, "MTech": 2, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "Infosys", "total": 50, "CSE": 24, "IT": 14, "ECE": 12, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "TCS", "total": 48, "CSE": 18, "IT": 10, "ECE": 10, "EE": 6, "ME": 2, "CE": 0, "CHE": 1, "MBA_BBA": 0, "MCA": 1, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Plan Realty", "total": 33, "CSE": 3, "IT": 4, "ECE": 4, "EE": 6, "ME": 7, "CE": 6, "CHE": 3, "MBA_BBA": 3, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Real Estate" },
+        { "name": "HCL Technologies", "total": 29, "CSE": 6, "IT": 14, "ECE": 5, "EE": 4, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Appventurez Mobitech", "total": 24, "CSE": 16, "IT": 12, "ECE": 9, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "JSW Steel", "total": 24, "CSE": 0, "IT": 1, "ECE": 0, "EE": 3, "ME": 13, "CE": 3, "CHE": 0, "MBA_BBA": 0, "MCA": 3, "MTech": 1, "pkg_lpa": null, "sector": "Core Engineering" },
+        { "name": "Crio.do", "total": 25, "CSE": 13, "IT": 8, "ECE": 4, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "Amazon", "total": 10, "CSE": 0, "IT": 3, "ECE": 2, "EE": 0, "ME": 3, "CE": 1, "CHE": 1, "MBA_BBA": 0, "MCA": 1, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Aditya Birla Group", "total": 19, "CSE": 0, "IT": 0, "ECE": 0, "EE": 8, "ME": 11, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Core Engineering" },
+        { "name": "IDEMIA", "total": 9, "CSE": 4, "IT": 2, "ECE": 2, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 1, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Akash Byju's", "total": 9, "CSE": 1, "IT": 1, "ECE": 0, "EE": 3, "ME": 1, "CE": 1, "CHE": 1, "MBA_BBA": 0, "MCA": 1, "MTech": 0, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "Ericsson", "total": 8, "CSE": 2, "IT": 0, "ECE": 4, "EE": 2, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Eduversity", "total": 8, "CSE": 0, "IT": 4, "ECE": 2, "EE": 2, "ME": 0, "CE": 1, "CHE": 1, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "Knoldus Software", "total": 7, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 7, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Torrent Gas", "total": 7, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 6, "MCA": 1, "MTech": 0, "pkg_lpa": null, "sector": "Core Engineering" },
+        { "name": "Hexaware Technologies", "total": 7, "CSE": 1, "IT": 4, "ECE": 2, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "GoDigit", "total": 8, "CSE": 6, "IT": 2, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Insurance" },
+        { "name": "WAISL", "total": 9, "CSE": 5, "IT": 0, "ECE": 2, "EE": 0, "ME": 0, "CE": 2, "CHE": 0, "MBA_BBA": 1, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "RecruitCRM", "total": 6, "CSE": 3, "IT": 2, "ECE": 0, "EE": 0, "ME": 1, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "HR-Tech" },
+        { "name": "Tejas Network", "total": 6, "CSE": 1, "IT": 0, "ECE": 5, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Newgen Software", "total": 7, "CSE": 4, "IT": 2, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 1, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Intellipat", "total": 6, "CSE": 1, "IT": 2, "ECE": 0, "EE": 0, "ME": 1, "CE": 0, "CHE": 2, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "Brillio", "total": 7, "CSE": 4, "IT": 3, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "QSS Technosoft", "total": 4, "CSE": 2, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 2, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Bonami Software", "total": 5, "CSE": 5, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "IGL", "total": 6, "CSE": 0, "IT": 0, "ECE": 2, "EE": 0, "ME": 4, "CE": 0, "CHE": 1, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Core Engineering" },
+        { "name": "ACEIS Gorakhpur", "total": 8, "CSE": 3, "IT": 3, "ECE": 2, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Other" },
+        { "name": "Scaler Academy", "total": 7, "CSE": 6, "IT": 0, "ECE": 0, "EE": 0, "ME": 1, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "EdTech" },
+        { "name": "TCS Ninja", "total": 19, "CSE": 7, "IT": 5, "ECE": 6, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 1, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Tech Mahindra", "total": 5, "CSE": 0, "IT": 4, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "IT" },
+        { "name": "Axis Bank", "total": 5, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 5, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "pkg_lpa": null, "sector": "Banking" }
+      ]
+    },
+
+    "2024-25": {
+      "summary": {
+        "total_offers": 1100,
+        "companies_count": 90,
+        "avg_package_lpa": 7.0,
+        "highest_package_lpa": 59.0,
+        "top_company": "Uber"
+      },
+      "notable_companies": [
+        { "name": "Uber", "pkg_lpa": 59, "students": 1, "branch": "IT", "type": "FTE" },
+        { "name": "Amazon", "pkg_lpa": 45, "students": 1, "branch": "CSE", "type": "FTE" },
+        { "name": "BEL", "pkg_lpa": 12.5, "students": 33, "type": "FTE" },
+        { "name": "IBM", "students": 17, "type": "FTE" },
+        { "name": "Cognizant", "students": 26, "type": "FTE" },
+        { "name": "HummingWave Technologies", "highest_pkg_lpa": 15, "students": 15, "type": "FTE" },
+        { "name": "Jubilant FoodWorks", "pkg_lpa": 7, "students": 12, "type": "FTE" },
+        { "name": "Aditya Birla Group", "pkg_lpa": 7, "students": 10, "type": "FTE" },
+        { "name": "Torrent Gas", "students": 15, "type": "FTE" },
+        { "name": "NOIDA Power Company", "students": 10, "type": "FTE" }
+      ]
+    }
+  },
+
+  "branch_wise_placement_analysis": {
+    "CSE": {
+      "code": "CSE",
+      "name": "Computer Science and Engineering",
+      "intake_2025": 225,
+      "top_recruiters": ["Amazon", "Google", "Microsoft", "Wipro", "TCS", "Cognizant", "Infosys", "HCL", "Uber", "ServiceNow", "Expedia"],
+      "highest_package_ever_lpa": 59,
+      "top_package_company": "Uber (Aaryadeep, 2024-25)",
+      "year_wise_offers": {
+        "2021-22": 345,
+        "2022-23": 189
+      }
+    },
+    "ECE": {
+      "code": "ECE",
+      "name": "Electronics and Communication Engineering",
+      "intake_2025": 180,
+      "top_recruiters": ["Ericsson", "IDEMIA", "Tejas Networks", "ServiceNow", "Microsoft", "HummingWave", "Wipro", "TCS", "Cognizant"],
+      "highest_package_ever_lpa": 42,
+      "top_package_company": "Microsoft India (Shanya Goel, 2022-23)",
+      "year_wise_offers": {
+        "2021-22": 234,
+        "2022-23": 169
+      }
+    },
+    "EE": {
+      "code": "EE",
+      "name": "Electrical Engineering",
+      "intake_2025": 180,
+      "top_recruiters": ["Ericsson", "Adani Airports", "HCL", "Aditya Birla", "L&T", "Wipro", "Cognizant"],
+      "highest_package_ever_lpa": 37,
+      "year_wise_offers": {
+        "2021-22": 117,
+        "2022-23": 87
+      }
+    },
+    "ME": {
+      "code": "ME",
+      "name": "Mechanical Engineering",
+      "intake_2025": 175,
+      "top_recruiters": ["Ericsson", "Aditya Birla", "India Glycols", "MG Motors", "Torrent Gas", "L&T", "JSW Steel"],
+      "highest_package_ever_lpa": 8,
+      "year_wise_offers": {
+        "2021-22": 114,
+        "2022-23": 117
+      }
+    },
+    "CE": {
+      "code": "CE",
+      "name": "Civil Engineering",
+      "intake_2025": 174,
+      "top_recruiters": ["L&T Construction", "UltraTech", "Prism Johnson", "Railtech Infraventure", "JSW Steel"],
+      "highest_package_ever_lpa": 6.5,
+      "year_wise_offers": {
+        "2021-22": 48,
+        "2022-23": 66
+      }
+    },
+    "CHE": {
+      "code": "CHE",
+      "name": "Chemical Engineering",
+      "intake_2025": 90,
+      "top_recruiters": ["Aditya Birla", "India Glycols", "IGL", "L&T", "BioPetroClean"],
+      "highest_package_ever_lpa": 6,
+      "year_wise_offers": {
+        "2021-22": 41,
+        "2022-23": 36
+      }
+    },
+    "IT": {
+      "code": "IT",
+      "name": "Information Technology and Computer Application",
+      "intake_2025": 94,
+      "top_recruiters": ["Expedia", "Uber", "JusPay", "Zscaler", "HCL", "TCS", "Infosys", "HummingWave"],
+      "highest_package_ever_lpa": 59,
+      "top_package_company": "Uber (Aaryadeep, 2024-25)",
+      "year_wise_offers": {
+        "2022-23": 99
+      }
+    }
+  },
+
+  "sector_wise_recruiters": {
+    "IT_Software": {
+      "count": 70,
+      "top_companies": ["Google", "Amazon", "Microsoft", "Uber", "Walmart", "Flipkart", "ServiceNow", "Wipro", "TCS", "Cognizant", "Infosys", "HCL", "Accenture", "Capgemini", "IBM"]
+    },
+    "Core_Engineering": {
+      "count": 20,
+      "top_companies": ["L&T", "Aditya Birla", "UltraTech", "Torrent Gas", "JSW Steel", "BEL", "MG Motors", "Tata Electronics"]
+    },
+    "Finance_Banking": {
+      "count": 8,
+      "top_companies": ["BNY Mellon", "JP Morgan", "Deloitte", "Kotak Bank", "HDFC", "Nuclei", "JusPay"]
+    },
+    "EdTech_Sales": {
+      "count": 15,
+      "top_companies": ["BYJU's", "IntelliPaat", "Jaro Education", "PlanetSpark", "Scaler", "Pregrad"]
+    }
+  },
+
+  "top_packages_all_time": [
+    { "rank": 1, "company": "Uber", "package_lpa": 59, "session": "2024-25", "student": "Aaryadeep", "branch": "IT" },
+    { "rank": 2, "company": "Google", "package_lpa": 52, "session": "2022-23", "student": "Aradhya Tripathi", "branch": "CSE" },
+    { "rank": 3, "company": "Microsoft", "package_lpa": 50, "session": "2021-22", "branch": "CSE" },
+    { "rank": 4, "company": "Amazon", "package_lpa": 45, "session": "2024-25", "student": "Shatachhi Nigam", "branch": "CSE" },
+    { "rank": 4, "company": "Amazon", "package_lpa": 45, "session": "2021-22", "branch": "CSE" },
+    { "rank": 6, "company": "Expedia", "package_lpa": 42, "session": "2022-23", "student": "Ekansh Saxena", "branch": "IT" },
+    { "rank": 6, "company": "Microsoft India", "package_lpa": 42, "session": "2022-23", "student": "Shanya Goel", "branch": "ECE" },
+    { "rank": 8, "company": "Trilogy Innovations", "package_lpa": 36.5, "session": "2022-23", "student": "Ratnesh Kumar Tiwari", "branch": "CSE" },
+    { "rank": 9, "company": "ServiceNow", "package_lpa": 34, "session": "2022-23", "student": "Rupal Singh", "branch": "CSE" },
+    { "rank": 10, "company": "Walmart", "package_lpa": 23.4, "session": "2021-22", "branch": "CSE/ECE/EE" }
+  ],
+
+  "placement_procedure": [
+    { "step": 1, "title": "Mailing", "description": "Interested Recruiters mail the JD at tnp@mmmut.ac.in including CTC, Job Roles, Eligibility Criteria and other relevant details." },
+    { "step": 2, "title": "Register", "description": "T&P Cell shares it among eligible and interested candidates through Superset Platform / Notice & G-Form." },
+    { "step": 3, "title": "Share", "description": "Within a few working days, T&P shares the excel containing list of interested & eligible candidates to the recruiter." },
+    { "step": 4, "title": "Date", "description": "Recruiter informs about dates required for process and T&P coordinates accordingly till successful completion." },
+    { "step": 5, "title": "Offer", "description": "The company rolls out the offer letter either to T&P or to the candidates, and T&P coordinates accordingly." }
+  ]
+}

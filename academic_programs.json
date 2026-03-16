@@ -1,0 +1,62 @@
+{
+  "academic_programs": {
+    "undergraduate": {
+      "B_Tech": {
+        "total_intake": 1070,
+        "branches": [
+          { "name": "Computer Science and Engineering", "code": "CSE", "intake": 225, "nba_accredited": true },
+          { "name": "Electronics and Communication Engineering", "code": "ECE", "intake": 180, "nba_accredited": true },
+          { "name": "Electrical Engineering", "code": "EE", "intake": 180, "nba_accredited": true },
+          { "name": "Mechanical Engineering", "code": "ME", "intake": 175, "nba_accredited": true },
+          { "name": "Civil Engineering", "code": "CE", "intake": 174, "nba_accredited": true },
+          { "name": "Chemical Engineering", "code": "CHE", "intake": 90, "nba_accredited": false },
+          { "name": "Information Technology and Computer Application", "code": "IT", "intake": 94, "nba_accredited": false }
+        ]
+      },
+      "BBA": { "name": "Bachelor of Business Administration", "intake": 75 },
+      "B_Pharm": { "name": "Bachelor of Pharmacy", "intake": 60 }
+    },
+    "postgraduate": {
+      "M_Tech": {
+        "total_intake": 216,
+        "branches": [
+          { "department": "Civil Engineering", "specializations": [
+            { "name": "Environment Engineering", "intake": 18 },
+            { "name": "Hill Development Engineering", "intake": 18 },
+            { "name": "Structural Engineering", "intake": 18 },
+            { "name": "Earthquake and Seismic Engineering", "intake": 18 }
+          ]},
+          { "department": "Computer Science and Engineering", "specializations": [
+            { "name": "Computer Science and Engineering", "intake": 18 }
+          ]},
+          { "department": "Information Technology", "specializations": [
+            { "name": "Information Technology", "intake": 18 }
+          ]},
+          { "department": "Electrical Engineering", "specializations": [
+            { "name": "Power Electronics and Drive", "intake": 18 },
+            { "name": "Control and Instrumentation", "intake": 18 }
+          ]},
+          { "department": "Electronics and Communication Engineering", "specializations": [
+            { "name": "Digital System", "intake": 18 },
+            { "name": "Communication System", "intake": 18 }
+          ]},
+          { "department": "Mechanical Engineering", "specializations": [
+            { "name": "Computer Integrated Manufacturing", "intake": 18 },
+            { "name": "Energy Technology and Management", "intake": 18 }
+          ]}
+        ]
+      },
+      "M_Sc": {
+        "total_intake": 90,
+        "subjects": [
+          { "name": "Physics", "intake": 30 },
+          { "name": "Chemistry", "intake": 30 },
+          { "name": "Mathematics", "intake": 30 }
+        ]
+      },
+      "MCA": { "name": "Master of Computer Application", "intake": 75 },
+      "MBA": { "name": "Master of Business Administration", "intake": 75 },
+      "PhD": { "name": "Ph.D (All Disciplines)", "intake": 90 }
+    }
+  }
+}

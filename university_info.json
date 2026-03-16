@@ -1,0 +1,57 @@
+{
+  "university": {
+    "name": "Madan Mohan Malaviya University of Technology",
+    "short_name": "MMMUT",
+    "location": "Gorakhpur, Uttar Pradesh, 273010",
+    "established": 1962,
+    "university_status_year": 2013,
+    "website": "https://tnpmmmut.tech/",
+    "tnp_website": "https://official-website-t-p.vercel.app/",
+    "contact": {
+      "email": "tnp@mmmut.ac.in",
+      "chairman_phone": "9953001761",
+      "coordinator_phone": "9918707222",
+      "vice_chairman_phone": "9235500560"
+    },
+    "accreditation": {
+      "NAAC": "A",
+      "NBA_accredited_branches": ["Civil Engineering", "Computer Science and Engineering", "Electrical Engineering", "Electronics and Communication Engineering", "Mechanical Engineering"]
+    },
+    "rankings": {
+      "NIRF_2025_overall_university": 68,
+      "NIRF_2025_engineering": 60,
+      "NIRF_2025_state_university": 23,
+      "QS_World_2025": 292,
+      "HackerRank_community": 84
+    },
+    "total_students": 4500,
+    "undergraduate_students": 3800,
+    "vision": "To facilitate and promote studies, research, technology, incubation, product innovation and extension work in Science, Technology and Management Education and also to achieve excellence in higher technical education.",
+    "tnp_professors": {
+      "chairman": {
+        "name": "Prof. V.K. Dwivedi",
+        "designation": "Chairman & Prof. (T&P)",
+        "email": "tnp@mmmut.ac.in",
+        "phone": "9953001761"
+      },
+      "vice_chairman": {
+        "name": "Dr. Rajan Mishra",
+        "designation": "Vice-Chairman Internship & Coordinator",
+        "email": "rmece@mmmut.ac.in",
+        "phone": "9235500560"
+      },
+      "member_secretary": {
+        "name": "Dr. Pallav Gupta",
+        "designation": "Member Secretary",
+        "email": "pgme@mmmut.ac.in",
+        "phone": "8860490258"
+      },
+      "placement_coordinator": {
+        "name": "Ms. Sukanya Pandey",
+        "designation": "Placement Coordinator",
+        "email": "tnp@mmmut.ac.in",
+        "phone": "9918707222"
+      }
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "notable_achievements": [
+    {
+      "session": "2024-25",
+      "student": "Aaryadeep",
+      "branch": "IT",
+      "degree": "B.Tech",
+      "batch": "2025",
+      "company": "Uber",
+      "role": "SDE-I",
+      "package_lpa": 59,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "student": "Shatachhi Nigam",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "batch": "2025",
+      "company": "Amazon",
+      "role": "SDE-I",
+      "package_lpa": 45,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "BEL (Bharat Electronics Limited)",
+      "total_selected": 33,
+      "package_lpa": 12.5,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "IBM",
+      "total_selected": 17,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "Cognizant",
+      "total_selected": 26,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "Jubilant FoodWorks Limited",
+      "total_selected": 12,
+      "package_lpa": 7,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "HummingWave Technologies",
+      "total_selected": 15,
+      "highest_package_lpa": 15,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "Aditya Birla Group",
+      "total_selected": 10,
+      "package_lpa": 7,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "Torrent Gas",
+      "total_selected": 15,
+      "type": "Full Time"
+    },
+    {
+      "session": "2024-25",
+      "company": "NOIDA POWER COMPANY LIMITED",
+      "total_selected": 10,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23",
+      "student": "Aradhya Tripathi",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "company": "Google",
+      "role": "Software Engineer",
+      "package_lpa": 52,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23",
+      "student": "Ekansh Saxena",
+      "branch": "IT",
+      "degree": "B.Tech",
+      "company": "Expedia",
+      "role": "Software Engineer",
+      "package_lpa": 42,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23",
+      "student": "Rupal Singh",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "company": "ServiceNow",
+      "role": "Software Engineer",
+      "package_lpa": 34,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23",
+      "student": "Ratnesh Kumar Tiwari",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "company": "Trilogy Innovations (CodeNation)",
+      "role": "SDE",
+      "package_lpa": 36.5,
+      "type": "Intern + FTE"
+    },
+    {
+      "session": "2022-23",
+      "student": "Kishan Saxena",
+      "branch": "ECE",
+      "degree": "B.Tech",
+      "company": "Zscaler",
+      "package_lpa": 19.2,
+      "type": "Intern + FTE"
+    },
+    {
+      "session": "2022-23",
+      "student": "Sejal Gangwar",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "company": "Amazon",
+      "role": "SDE Intern",
+      "stipend_per_month": 80000,
+      "type": "Internship"
+    },
+    {
+      "session": "2022-23",
+      "students": ["Aditi Srivastava (CSE)", "Aryan Parihar (ECE)"],
+      "company": "Microsoft",
+      "role": "SDE Intern",
+      "stipend_per_month": 125000,
+      "type": "Internship"
+    },
+    {
+      "session": "2022-23",
+      "company": "Josh Technology Group",
+      "total_selected": 2,
+      "packages_lpa": [17.4, 14.75],
+      "type": "Intern + FTE"
+    },
+    {
+      "session": "2022-23",
+      "company": "JusPay",
+      "total_selected_FTE": 2,
+      "total_selected_intern": 1,
+      "FTE_package_lpa": 27,
+      "intern_stipend_lakh": 4.5,
+      "type": "Mixed"
+    },
+    {
+      "session": "2022-23",
+      "award": "SAE India Aerothon 2022 - All India Rank 1 (Phase 1) and AIR 4 (Phase 2)",
+      "team": "Team Starfleet, MMMUT"
+    },
+    {
+      "session": "2022-23",
+      "award": "Council of Science & Technology UP - 1st and 2nd prize",
+      "prize_money": ["1 Lakh", "75K"]
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "student": "Priyanshi Rawat",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "company": "ServiceNow",
+      "package_lpa": 34,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "student": "Shanya Goel",
+      "branch": "ECE",
+      "degree": "B.Tech",
+      "company": "Microsoft India",
+      "package_lpa": 42,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "student": "Divyanshi Singh",
+      "branch": "CSE",
+      "degree": "B.Tech",
+      "company": "Lowe's India",
+      "package_lpa": 19.34,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "company": "Amazon India",
+      "total_selected": 6,
+      "role": "Intern",
+      "type": "Internship"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "company": "Nuclei",
+      "total_selected": 2,
+      "package_lpa": 16,
+      "type": "Intern + FTE"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "company": "BNY Mellon",
+      "total_selected": 3,
+      "package_lpa": 16,
+      "type": "Intern + FTE"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "company": "BEL",
+      "total_selected": 7,
+      "role": "Research Staff",
+      "package_lpa": 11,
+      "type": "Full Time"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "company": "Walmart",
+      "total_selected": 5,
+      "package_range_lpa": "16-19",
+      "type": "Full Time",
+      "batch": "2022"
+    },
+    {
+      "session": "2022-23 (Brochure 2022-23 context)",
+      "company": "Scaler by InterviewBit",
+      "total_selected_intern": 3,
+      "batch": "2023",
+      "type": "Internship"
+    }
+  ],
+  "top_package_records": [
+    { "session": "2024-25", "company": "Uber", "package_lpa": 59, "student": "Aaryadeep", "branch": "IT" },
+    { "session": "2022-23", "company": "Google", "package_lpa": 52, "student": "Aradhya Tripathi", "branch": "CSE" },
+    { "session": "2021-22", "company": "Microsoft", "package_lpa": 50, "branch": "CSE" },
+    { "session": "2024-25", "company": "Amazon", "package_lpa": 45, "student": "Shatachhi Nigam", "branch": "CSE" },
+    { "session": "2021-22", "company": "Amazon", "package_lpa": 45, "branch": "CSE/ECE" },
+    { "session": "2022-23", "company": "Expedia", "package_lpa": 42, "student": "Ekansh Saxena", "branch": "IT" },
+    { "session": "2022-23", "company": "Microsoft India", "package_lpa": 42, "student": "Shanya Goel", "branch": "ECE" },
+    { "session": "2022-23", "company": "Trilogy Innovations", "package_lpa": 36.5, "student": "Ratnesh Kumar Tiwari", "branch": "CSE" },
+    { "session": "2022-23", "company": "ServiceNow", "package_lpa": 34, "student": "Rupal Singh", "branch": "CSE" },
+    { "session": "2021-22", "company": "Walmart", "package_lpa": 23.4, "branch": "CSE/ECE/EE" }
+  ]
+}

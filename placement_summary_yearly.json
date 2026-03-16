@@ -1,0 +1,76 @@
+{
+  "placement_summary_yearly": [
+    {
+      "session": "2016-17",
+      "offers": 92,
+      "companies": 5,
+      "average_package_lpa": 3.3,
+      "highest_package_lpa": 3.5,
+      "data_source": "Brochure chart"
+    },
+    {
+      "session": "2017-18",
+      "offers": 90,
+      "companies": 5,
+      "average_package_lpa": 3.5,
+      "highest_package_lpa": 10.12,
+      "data_source": "Placement Report 2022-23 chart"
+    },
+    {
+      "session": "2018-19",
+      "offers": 135,
+      "companies": 8,
+      "average_package_lpa": 4.67,
+      "highest_package_lpa": 10.12,
+      "data_source": "Placement Report 2022-23 chart"
+    },
+    {
+      "session": "2019-20",
+      "offers": 303,
+      "companies": 39,
+      "average_package_lpa": 4.21,
+      "highest_package_lpa": 8.0,
+      "data_source": "Placement Report 2022-23 chart"
+    },
+    {
+      "session": "2020-21",
+      "offers": 401,
+      "companies": 69,
+      "average_package_lpa": 4.51,
+      "highest_package_lpa": 37.0,
+      "data_source": "Placement Report 2022-23 chart"
+    },
+    {
+      "session": "2021-22",
+      "offers": 1022,
+      "companies": 86,
+      "average_package_lpa": 6.91,
+      "highest_package_lpa": 50.0,
+      "data_source": "Placement Report 2021-22 detailed"
+    },
+    {
+      "session": "2022-23",
+      "offers": 961,
+      "companies": 86,
+      "average_package_lpa": 6.8,
+      "highest_package_lpa": 52.0,
+      "data_source": "Placement Report 2022-23 + Brochure 2023-24"
+    },
+    {
+      "session": "2023-24",
+      "offers": 973,
+      "companies": 80,
+      "average_package_lpa": 6.5,
+      "highest_package_lpa": 45.0,
+      "data_source": "Brochure 2023-24"
+    },
+    {
+      "session": "2024-25",
+      "offers": 1100,
+      "companies": 90,
+      "average_package_lpa": 7.0,
+      "highest_package_lpa": 59.0,
+      "data_source": "Placement Brochure 2025-26"
+    }
+  ]
+}
