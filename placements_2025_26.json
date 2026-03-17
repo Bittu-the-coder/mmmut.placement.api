@@ -1,0 +1,44 @@
+{
+  "session": "2025-26",
+  "summary": {
+    "total_offers": 1100,
+    "total_companies": 90,
+    "average_package_lpa": 7.0,
+    "highest_package_lpa": 59.0,
+    "top_offer_company": "Amazon",
+    "top_offer_lpa": 45.0,
+    "notes": "Overall placement highlights include 1100+ offers with an average of 7 LPA. The highest package reported was 59 LPA (overall) and Amazon offered a top package of 45 LPA. Early placement data from the first three months shows 232 offers from 13 companies."
+  },
+  "branch_wise_totals": {
+    "CSE": { "male": 0, "female": 0, "total": 255 },
+    "IT": { "male": 0, "female": 0, "total": 120 },
+    "ECE": { "male": 0, "female": 0, "total": 180 },
+    "EE": { "male": 0, "female": 0, "total": 120 },
+    "ME": { "male": 0, "female": 0, "total": 120 },
+    "CE": { "male": 0, "female": 0, "total": 120 },
+    "CHE": { "male": 0, "female": 0, "total": 63 },
+    "MBA_BBA": { "male": 0, "female": 0, "total": 135 },
+    "MCA": { "male": 0, "female": 0, "total": 60 },
+    "MTech": { "male": 0, "female": 0, "total": 207 }
+  },
+  "company_wise_placements": [
+    { "company": "Aurangabad Auto Ancillary", "total_offers": 114, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 114, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Unlocks Academy", "total_offers": 46, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Movidu Technology", "total_offers": 26, "CSE": 26, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Intellipaat", "total_offers": 19, "CSE": 19, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "IBM", "total_offers": 15, "CSE": 15, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Josh Technology", "total_offers": 2, "CSE": 0, "IT": 0, "ECE": 2, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_range_lpa": "12.35-14.23" },
+    { "company": "Tessel Technology", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": 11.0 },
+    { "company": "Amazon", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": 45.0 },
+    { "company": "Bharat Electronics Limited (BEL)", "total_offers": 1, "CSE": 0, "IT": 0, "ECE": 1, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": 12.5 },
+    { "company": "JP Morgan Chase", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Aditya Birla Group", "total_offers": 1, "CSE": 0, "IT": 0, "ECE": 0, "EE": 1, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Torrent Gas", "total_offers": 1, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 1, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "L&T", "total_offers": 1, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 1, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": 6.65 },
+    { "company": "JSW", "total_offers": 1, "CSE": 0, "IT": 0, "ECE": 0, "EE": 0, "ME": 1, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Juspay", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Wipro", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "TCS", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null },
+    { "company": "Tech Mahindra", "total_offers": 1, "CSE": 1, "IT": 0, "ECE": 0, "EE": 0, "ME": 0, "CE": 0, "CHE": 0, "MBA_BBA": 0, "MCA": 0, "MTech": 0, "package_lpa": null }
+  ]
+}
