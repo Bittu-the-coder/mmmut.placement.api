@@ -6,7 +6,7 @@ const placementSummary = require('./placement_summary_yearly.json');
 const placements202122 = require('./placements_2021_22.json');
 const placements202223 = require('./placements_2022_23.json');
 // const placements202324 = require('./placements_2023_24.json');
-// const placements202425 = require('./placements_2024_25.json');
+ const placements202425 = require('./placements_2024_25.json');
 const notableAchievements = require('./notable_achievements.json');
 const recruitersAndAlumni = require('./recruiters_and_alumni.json');
 const masterData = require('./mmmut_placement_api_master.json');
@@ -19,7 +19,7 @@ const sessionData = {
   '2021-22': placements202122,
   '2022-23': placements202223,
   // '2023-24': placements202324,
-  // '2024-25': placements202425,
+   '2024-25': placements202425,
 };
 
 // ─── Root ─────────────────────────────────────────────────────────────────────
